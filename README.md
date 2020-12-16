@@ -2,6 +2,10 @@ This is the github repo for Wenda Qiu's CS466 project: Parallel Hirschberg Algor
 
 ![Hirschberg Recursive Tree, processor number=2](image.png)
 
+This is the results for experiemnts. The speed up is negligible for more than 4 cores.
+
+![Time - Space Plot](results.png)
+
 ---
 
 # File Description
